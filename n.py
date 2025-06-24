@@ -29,7 +29,7 @@ COLLEGE_LOCATIONS = {
 
 # Video paths for routes
 ROUTE_VIDEOS = {
-    ("Main Gate", "Library"): r"c:\Users\HP\Desktop\py\mejor Project_directory\videos\main.mp4",
+    ("Main Gate", "Library"): r"main.mp4",
     ("Main Gate", "KSH"): r"c:\Users\HP\Desktop\py\mejor Project_directory\videos\main.mp4",
     ("Main Gate", "Cricket Ground"): r"c:\Users\HP\Desktop\py\mejor Project_directory\videos\main.mp4",
     ("Main Gate", "Computer Science Block"): r"c:\Users\HP\Desktop\py\mejor Project_directory\videos\main.mp4",
